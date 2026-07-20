@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viktorina", "Viktorina\Viktorina.csproj", "{683BBDE7-855C-425F-B8BF-BDBD56141E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViktorinaEditor", "ViktorinaEditor\ViktorinaEditor.csproj", "{E3961042-4256-4A0E-B211-E793A244ECC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683BBDE7-855C-425F-B8BF-BDBD56141E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683BBDE7-855C-425F-B8BF-BDBD56141E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683BBDE7-855C-425F-B8BF-BDBD56141E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683BBDE7-855C-425F-B8BF-BDBD56141E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3961042-4256-4A0E-B211-E793A244ECC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3961042-4256-4A0E-B211-E793A244ECC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3961042-4256-4A0E-B211-E793A244ECC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3961042-4256-4A0E-B211-E793A244ECC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
